@@ -9,6 +9,8 @@ Gmail:
 
 Please contact me if you need the dataset.
 
+**More details of code & readme will be open after the paper is accepted.**
+
 # Usage
 
 model/ : save for the model you have train
