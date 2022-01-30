@@ -6,8 +6,6 @@ import torch.nn as nn
 import SimpleITK as sitk
 
 
-
-
 def one_hot_encoder(input_tensor,dataset,n_classes = None):
     tensor_list = []
     if dataset == 'MMWHS':  
