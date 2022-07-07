@@ -9,7 +9,7 @@ Gmail:
 
 Please contact me if you need the dataset.
 
-**More details of code & readme will be open after the paper is accepted.**
+**More details of code & readme will come soon!**
 
 # Usage
 
