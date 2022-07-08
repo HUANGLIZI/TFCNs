@@ -3,9 +3,9 @@ This repository includes the official project of TFCNs, presented in our paper: 
 
 ![image](https://github.com/HUANGLIZI/TFCNs/blob/main/imgs/TFCNs.jpg)
 
-paper link:
+paper link: https://arxiv.org/abs/2207.03450
 
-Gmail:
+Gmail: zihanli@stu.xmu.edu.cn
 
 Please contact me if you need the dataset.
 
