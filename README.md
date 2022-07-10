@@ -7,7 +7,7 @@ paper link: https://arxiv.org/abs/2207.03450
 
 Email: dihanli@stu.xmu.edu.cn
 
-Please contact me if you need the further help.
+Please contact dihan or me if you need the further help.
 
 
 # Usage
