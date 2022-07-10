@@ -9,7 +9,6 @@ Email: dihanli@stu.xmu.edu.cn
 
 Please contact me if you need the further help.
 
-**More details of code & readme will come soon!**
 
 # Usage
 
