@@ -5,9 +5,9 @@ This repository includes the official project of TFCNs, presented in our paper: 
 
 paper link: https://arxiv.org/abs/2207.03450
 
-Gmail: dihanli@stu.xmu.edu.cn
+Email: dihanli@stu.xmu.edu.cn
 
-Please contact me if you need the dataset.
+Please contact me if you need the further help.
 
 **More details of code & readme will come soon!**
 
