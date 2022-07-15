@@ -1,4 +1,4 @@
-# TFCNs
+# TFCNs (ICANN 2022 Oral)
 This repository includes the official project of TFCNs, presented in our paper:  TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation
 
 ![image](https://github.com/HUANGLIZI/TFCNs/blob/main/imgs/TFCNs.jpg)
