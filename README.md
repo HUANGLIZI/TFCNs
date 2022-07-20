@@ -34,7 +34,7 @@ Please prepare an environment with python=3.7, and then use the command "pip ins
 @article{li2022TFCNs,
   title={TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation},
   author={Li, Zihan and Li, Dihan and Xu, Cangbai and Wang, Weice and Hong, Qingqi and Li, Qingde and Tian, Jie},
-  journal={arXiv preprint arXiv:2207.03450},
+  journal={ICANN2022},
   year={2022}
 }
 ```
