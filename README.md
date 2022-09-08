@@ -3,7 +3,7 @@ This repository includes the official project of TFCNs, presented in our paper: 
 , which is accepted by ICANN 2022 (International Conference on Artificial Neural Networks).
 ![image](https://github.com/HUANGLIZI/TFCNs/blob/main/imgs/TFCNs.jpg)
 
-paper link: https://arxiv.org/abs/2207.03450
+paper link: https://arxiv.org/abs/2207.03450 or https://doi.org/10.1007/978-3-031-15937-4_65
 
 Email: dihanli@stu.xmu.edu.cn
 
